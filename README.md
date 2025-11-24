@@ -1,14 +1,14 @@
-# AI Navigator 🤖
+# AI Navigator
 
 An intelligent route planning application with real-time weather alerts. Built with Streamlit, Mapbox, and Google Gemini AI.
 
 ## Features
 
-- 🗺️ **Interactive Route Visualization** - Beautiful 3D map with weather-colored route segments
-- 🌦️ **Real-time Weather Alerts** - Get notified about severe weather conditions along your route
-- 🤖 **AI-Powered Trip Parsing** - Natural language input (e.g., "Drive from NYC to Boston next Sunday")
-- 📊 **Trip Metrics** - Distance, duration, and weather status at a glance
-- ⚠️ **Weather Timeline** - See when and where you'll encounter weather conditions
+- **Interactive Route Visualization** - Beautiful 3D map with weather-colored route segments
+- **Real-time Weather Alerts** - Get notified about severe weather conditions along your route
+- **AI-Powered Trip Parsing** - Natural language input (e.g., "Drive from NYC to Boston next Sunday")
+- **Trip Metrics** - Distance, duration, and weather status at a glance
+- **Weather Timeline** - See when and where you'll encounter weather conditions
 
 ## Prerequisites
 
@@ -88,4 +88,5 @@ This project is open source and available for personal and commercial use.
 ## Contributing
 
 Feel free to submit issues, fork the repository, and create pull requests for any improvements.
+
 
