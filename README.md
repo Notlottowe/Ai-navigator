@@ -71,7 +71,6 @@ An intelligent route planning application with real-time weather alerts. Built w
 
 ## Limitations
 
-- Currently supports **USA only** routes
 - Weather forecasts limited to 14 days ahead
 - Requires active internet connection
 
@@ -88,6 +87,7 @@ This project is open source and available for personal and commercial use.
 ## Contributing
 
 Feel free to submit issues, fork the repository, and create pull requests for any improvements.
+
 
 
 
